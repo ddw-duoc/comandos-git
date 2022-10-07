@@ -16,8 +16,8 @@ Configura el Autor y Email a usar al realizar
 commits
 
 ```sh
-git config --global user.name "Paulina Zambrano"
-git config --global user.email palyzambrano@example.com
+git config --global user.name "John Appleseed"
+git config --global user.email john_appleseed@example.com
 ```
 
 ## Manejo de repositorios
